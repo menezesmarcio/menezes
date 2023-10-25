@@ -11,7 +11,7 @@
         <p>Oferecemos profissionais experientes e antenados às mudanças do mundo da moda.O atendimento possui padrão de excelência, e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
                     </body>
 </html>
-<a"href="https://www.google.com.br/?hl=pt-BR>">ir
+<a"href="https://www.google.com.br/?hl=pt-BR>
 
 # Projeto cursista de AS Sou Professor de Administração 
 Não tenho experiência em programação
