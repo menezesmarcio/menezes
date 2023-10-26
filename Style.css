@@ -1,11 +1,11 @@
 .titulo {
-    color:rgb(240, 31, 31);
+    background-color:FFC436;
     font-size: 60px;
     text-align: center;
 }
 
 #texto {
-    color: rgb(11, 14, 1, 0.849);
+    color: rgb 522D5B
     font-size:  40px;
     text-align: justify;
 }
