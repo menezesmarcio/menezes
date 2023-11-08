@@ -3,7 +3,18 @@
     font-size: 60px;
     text-align: center;
 }
-
+<head>
+<style rel="stylesheet">/>
+  body { background-color: #cff; } /*azul claro*/
+  h2 { background-color: #f00; }   /* vermelho */
+  p { background-color: #0f0; }    /*  verde   */
+</style>
+</head>
+<body>
+  <h2>Estude CSS</h2>
+  <p>Com CSS você controla melhor seu layout</p>
+</body>
+</html>
 .texto {
     background-color: #d11856;
     font-size:  40px;
